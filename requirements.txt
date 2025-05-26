@@ -1,0 +1,2 @@
+fastmcp>=2.1.0  # latest stable at time of writing
+uvicorn[standard]~=0.29
